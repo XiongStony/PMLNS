@@ -5,7 +5,6 @@ This repository including:
 
 Controling the robotic arm with Arduino and CNC shield.  
 Impelement of Moku:Go Functions (Frequency Response Analyzer, Ocsolliscope) via Python API for signal excitations and recordings.  
-Example of combine robot motion and Moku:Go command into full experimental operation sequence.  
-Neural Networks Models training and testing, Reduced Order Modeling Method.  
+Example of combine robot motion and Moku:Go command into full experimental operation sequence.    
 
 Credits for Yuqi Xiong, Dr. William Clark, Phoebe Esser Katz, Dr. Nikhil Bajaj, Department of ME & MS, Swanson School of Engineering, Univ. of Pittsburgh
