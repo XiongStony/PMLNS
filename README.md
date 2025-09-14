@@ -9,3 +9,4 @@ Example of combine robot motion and Moku:Go command into full experimental opera
 Neural Network Model test Result
 
 Credits for Yuqi Xiong, Dr. William Clark, Phoebe Esser Katz, Dr. Nikhil Bajaj, Department of ME & MS, Swanson School of Engineering, Univ. of Pittsburgh
+![alt text](PMLNS/Test-Environment/RoboticArm.png)
