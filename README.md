@@ -11,4 +11,5 @@ Neural Network Model test Result
 Credits for Yuqi Xiong, Dr. William Clark, Phoebe Esser Katz, Dr. Nikhil Bajaj, Department of ME & MS, Swanson School of Engineering, Univ. of Pittsburgh
 ![alt text](Test-Environment/RoboticArm.png)
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/shorts/WJw7CpcFpuY)
+Watch video here:
+[![Watch the video](https://img.youtube.com/shorts/WJw7CpcFpuY.jpg)](https://www.youtube.com/shorts/WJw7CpcFpuY)
