@@ -13,5 +13,5 @@ Credits for Yuqi Xiong, Dr. William Clark, Phoebe Esser Katz, Dr. Nikhil Bajaj, 
 Watch video here:
 1 [![Watch the video](Test-Environment/RoboticArm.png)](https://www.youtube.com/shorts/WJw7CpcFpuY)
 
-2 [![Watch the New Robotic Arm video]()](https://www.youtube.com/shorts/ZfwPjaRsHqM)
+2 [![Watch the New Robotic Arm video](Test-Environment/Niryo arm 6freedom.png)](https://www.youtube.com/shorts/ZfwPjaRsHqM)
 
