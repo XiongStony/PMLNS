@@ -14,4 +14,4 @@ Watch video here:
 1 [![Watch the video](Test-Environment/RoboticArm.png)](https://www.youtube.com/shorts/WJw7CpcFpuY)
 
 2 [![Watch the New Robotic Arm video]()](https://www.youtube.com/shorts/ZfwPjaRsHqM)
-#![alt text](Test-Environment/RoboticArm.png)
+
