@@ -1,5 +1,6 @@
 This folder is about Machine Learning Results include comfusion matrix and other figures
-
 as well as My Machine Learning and Reduced-Order modeling custom Library  
+
+Our ConfMatr.pdf file shows how our ROM-MLP model perform, however we decide not to open scource our best model for now. The CNN training model code and result is provieded. 
 
 Note: Experiment A is the experiment with material oil/oil oil/water oil/vinegar, Experiment B is the experiment with human skin-like silicone materials
