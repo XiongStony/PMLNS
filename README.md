@@ -16,3 +16,4 @@ Watch video here:
 
 2 [![Watch the New Robotic Arm video](Test-Environment/Niryo-arm-6freedom.png)](https://www.youtube.com/shorts/ZfwPjaRsHqM)
 
+3 watch the video of real time inference of our Neural Network model [![Watch the New Robotic Arm video]()](https://www.youtube.com/shorts/NKNIu49QH0I)
