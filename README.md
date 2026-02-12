@@ -12,8 +12,10 @@ Credits for Yuqi Xiong, Dr. William Clark, Phoebe Esser Katz, Dr. Nikhil Bajaj, 
 
 Watch video here: 
 
-1 [![Watch the video](Test-Environment/RoboticArm.png)](https://www.youtube.com/shorts/WJw7CpcFpuY)
+1 Click picture to see the vidio 
+[![Watch the video](Test-Environment/RoboticArm.png)](https://www.youtube.com/shorts/WJw7CpcFpuY)
 
-2 [![Watch the New Robotic Arm video](Test-Environment/Niryo-arm-6freedom.png)](https://www.youtube.com/shorts/ZfwPjaRsHqM)
+2 Click picture to see the vidio
+[![Watch the New Robotic Arm video](Test-Environment/Niryo-arm-6freedom.png)](https://www.youtube.com/shorts/ZfwPjaRsHqM)
 
 3 watch the video of real time inference of our Neural Network model [![Watch the New Robotic Arm video]()](https://www.youtube.com/shorts/NKNIu49QH0I)
