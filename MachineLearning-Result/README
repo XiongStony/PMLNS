@@ -4,3 +4,8 @@ as well as My Machine Learning and Reduced-Order modeling custom Library
 Our ConfMatr.pdf file shows how our ROM-MLP model perform, however we decide not to open scource our best model for now. The CNN training model code and result is provieded. 
 
 Note: Experiment A is the experiment with material oil/oil oil/water oil/vinegar, Experiment B is the experiment with human skin-like silicone materials
+
+File "The_third_NeedleARM.ipynb" is our newest model. 
+The data for training and test is acquired from the robotic arm that shown in the second photo/vidio. 
+The data for the model were prepared using slide window to provide the sequence information for deep learning.
+This model is transformer-attention neural network based model, where it can do both regression of the depth that inserted (regression block) and classification of the material that inserted (classification block).
